@@ -24,3 +24,22 @@ html {
 body {
   background-color: #232946;
 }
+
+h1 {
+  font-family: "Henny Penny", system-ui;
+  color: gold;
+  font-size: 90px;
+}
+
+h2 {
+  font-family: "Zain", sans-serif;
+  color: silver;
+  font-size: 40px;
+}
+
+p {
+  font-family: "Zain", sans-serif;
+  color: white;
+  font-size: 20px;
+}
+  

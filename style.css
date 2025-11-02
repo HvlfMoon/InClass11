@@ -22,26 +22,35 @@ html {
 }
 
 body {
-  background-color: #232946;
-}
+  background-image: url("https://wallpapers.com/images/hd/space-stars-background-3840-x-2160-vnbtbfcyr9pwvdkr.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 
 h1 {
   font-family: "Henny Penny", system-ui;
   color: gold;
-  font-size: 90px;
+  font-size: 6rem;
   text-align: center;
+  margin: 5rem 1rem 0 1rem;
 }
 
 h2 {
   font-family: "Zain", sans-serif;
-  color: white;
-  font-size: 40px;
+  color: ghostwhite;
+  font-size: 3rem;
   text-align: center;
 }
 
 p {
   font-family: "Zain", sans-serif;
   color: white;
-  font-size: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem auto;
+  max-width: 900px;
+  padding: 0 1rem;
 }
   
